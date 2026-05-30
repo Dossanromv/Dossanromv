@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Dossanromv/Dossanromv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Roma Dossanbayev
+
+iOS Developer in progress 🚀
+
+## Skills
+- Swift, SwiftUI
+- Git, Xcode
+
+## Projects
+- [Calculator]() — iOS calculator built with SwiftUI
+- [Todo List]() — coming soon
+
+## Goals
+Learning iOS development, looking for internship opportunities
