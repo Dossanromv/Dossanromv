@@ -25,7 +25,7 @@ iOS Developer in progress 🚀
 
 ## Projects
 - [Calculator](https://github.com/Dossanromv/IOS_Calculator.git) — iOS calculator built with SwiftUI
-- [Todo List](https://github.com/Dossanromv/IOS_ToDolist.git) — coming soon
+- [Todo List](https://github.com/Dossanromv/IOS_ToDolist.git) — iOS ToDoList built with SwiftUI
 
 ## Goals
 Learning iOS development, looking for internship opportunities
